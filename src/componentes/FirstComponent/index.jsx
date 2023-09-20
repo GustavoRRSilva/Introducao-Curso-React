@@ -2,7 +2,9 @@
  import "./FirstComponent.css"
  function FirstComponent() {
    return (
-     <div>FirstComponent</div>
+     <div>
+       <p className = "paragrafo">First component</p>
+      </div>
    )
  }
  
