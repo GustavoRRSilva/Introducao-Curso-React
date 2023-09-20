@@ -22,7 +22,7 @@ const Events = ()=>{
         <div>
           <button onClick = {() => {
             alert("fui clicado tbm")
-          }}>Clique aqui também</button>
+          }}>Clique aqui tambémm</button>
         </div>
         {handleSomething(false)}
     </div>
